@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) OOP Apartments
 
-##Learning Objectives
+## Learning Objectives
 
 - Demonstrate a working knowledge of object properties and methods.
 - Create objects using constructor notation, as well as instances of those objects using the new keyword.
