@@ -59,6 +59,7 @@ Be sure to use the console to check your work where instructed.
 	- [OOP Case Study #2](https://generalassembly.wistia.com/medias/lwjshtw79q)
 - Readings
 	- MDN - [Intro to OOP](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+	- [JS ES6 Classes](http://2ality.com/2015/02/es6-classes-final.html#referring_to_super-properties_in_methods)
 	- [Object Oriented Analysis and Design with Applications, by Grady Booch and Others](http://www.goodreads.com/book/show/424923.Object_Oriented_Analysis_and_Design_with_Applications)
 	- [Great Lecture Notes](https://atomicobject.com/resources/oo-programming/introduction-motivation-for-oo)
 	- [OOP in JS from JavascriptIsSexy](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
