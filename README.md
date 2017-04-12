@@ -8,13 +8,7 @@
 - Define methods on your classes.
 - Understand object inheritance.
 
-## Introduction
-
 > ***Note:*** _This can be a pair programming activity or done independently._
-
-For this project option, you will build a website that allows a user to build a car of their choice. The development of this site will focus heavily on DOM manipulation.
-
-
 
 ## Exercise
 
