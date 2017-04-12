@@ -27,7 +27,7 @@ For this project option, you will build a website that allows a user to build a 
 
 How do I know if an object is of a particular class type? Use this conditional:
 
-`myObject instanceof MyClass` evalautes to either true or false
+`myObject instanceof MyClass` evaluates to either true or false
 
 #### Starter code
 
